@@ -1,2 +1,6 @@
 This is file1
+<<<<<<< HEAD
 Adding line2
+=======
+This is line3
+>>>>>>> hotfix
